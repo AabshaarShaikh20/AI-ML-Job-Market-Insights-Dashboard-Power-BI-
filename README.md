@@ -1,5 +1,5 @@
 
-# 🌟 **AI/ML Job Market Insights Dashboard (Power BI)**
+# 🌟 **AI Job Market Analysis Dashboard (Power BI)**
 
 
 ## 📸 Dashboard Preview
